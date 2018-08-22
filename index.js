@@ -15,3 +15,7 @@ function deepestChild() {
   }
   return grandNode
 }
+
+function increaseRankBy(n) {
+  
+}
